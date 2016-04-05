@@ -1,0 +1,9 @@
+body{
+    background-color: orange;
+    color: white;
+    font-size: 18px;
+}
+
+a, h1, h2{
+    color: white;
+}
